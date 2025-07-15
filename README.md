@@ -32,6 +32,7 @@ This project demonstrates a **local automation workflow** to generate and delive
 
 ##🧠 Author
 Afrijal Rasya
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afrijalrasyaputra)
 
 📄 License
