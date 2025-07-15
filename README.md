@@ -45,18 +45,18 @@ However, the entire workflow can be migrated to the **Power BI Service** and **P
 - ✅ Cloud-based email delivery without local dependencies
 
 
-## 🌟 Tentang Saya
+## 🌟 About me
 
-Halo! Saya **Afrijal Rasya Putra**, seorang **mahasiswa Informatika** yang sedang tertarik mendalami dunia **Data Engineering**. Meskipun masih di awal perjalanan kuliah, saya sangat antusias belajar tentang bagaimana data diproses dan diubah menjadi informasi yang bermakna.
+Hi there! I am **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data Engineering & Analytics**. Although I am still at the beginning of my college journey, I am very enthusiastic about learning about how data is processed and transformed into meaningful information.
 
-📌 Saat ini saya sedang belajar:
+📌 I am currently studying:
 - Data Visualization
-- **SQL** dan dasar-dasar manipulasi data
+- **SQL** and data manipulation basics
 - Data Analytics
-- Konsep dasar **ETL** dan alur kerja data pipeline
+- Basic concepts of **ETL** and data pipeline workflow
 
-Saya senang belajar dan mengeksplorasi hal-hal baru, terutama yang berkaitan dengan data. Saat ini saya sedang membangun keterampilan secara bertahap dan terus mencari peluang untuk berkembang. Saya juga terbuka untuk **magang** atau **proyek kolaboratif** yang bisa memberi saya pengalaman langsung dan membantu proses belajar saya.
+I enjoy learning and exploring new things, especially those related to data. I am currently building my skills gradually and constantly looking for opportunities to grow. I am also open to **internships** or **collaborative projects** that can give me hands-on experience and help my learning process.
 
-📫 Jangan ragu untuk terhubung atau berdiskusi—saya senang bisa belajar dan berkembang bersama!
+📫 Feel free to connect or discuss-I'd love to learn and grow together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrijalrasyaputra/)
