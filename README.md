@@ -28,12 +28,13 @@ This project demonstrates a **local automation workflow** to generate and delive
     ├── scripts/                 # SQL ETL or cleanup scripts
     ├── LICENSE
     ├── README.md
- 
+
 
 ##🧠 Author
+
 Afrijal Rasya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afrijalrasyaputra)
+[![LinkedIn](https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000)](https://www.linkedin.com/in/afrijalrasyaputra)
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
