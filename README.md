@@ -1,4 +1,4 @@
-# 🧾 Power BI Report Automation (Local Desktop)
+# Power BI Report Automation (Local Desktop)
 
 This project demonstrates a **local automation workflow** to generate and deliver business reports using:
 - **SQL Server** for structured data storage
