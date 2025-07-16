@@ -5,8 +5,13 @@ This project demonstrates a **local automation workflow** to generate and delive
 - **Power BI Desktop** for dashboard creation
 - **Power Automate Desktop (PAD)** for automating PDF export and email delivery
 
-> ✅ This solution works **offline**, without the need for Power BI Service or cloud resources.
+> 💡 **Cloud Upgrade Available**  
+This project is designed for local execution using Power BI Desktop and Power Automate Desktop.  
+However, the entire workflow can be migrated to the **Power BI Service** and **Power Automate (Cloud)** environment with a **Power BI Pro account**, enabling:
 
+- ✅ Scheduled report refresh via **Power BI Gateway**
+- ✅ Automatic PDF export using **Power Automate (Cloud)**
+- ✅ Cloud-based email delivery without local dependencies
 ---
 
 ## 🧭 Workflow Overview
@@ -33,16 +38,6 @@ This project demonstrates a **local automation workflow** to generate and delive
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-### 📌 Note
-
-> 💡 **Cloud Upgrade Available**  
-This project is designed for local execution using Power BI Desktop and Power Automate Desktop.  
-However, the entire workflow can be migrated to the **Power BI Service** and **Power Automate (Cloud)** environment with a **Power BI Pro account**, enabling:
-
-- ✅ Scheduled report refresh via **Power BI Gateway**
-- ✅ Automatic PDF export using **Power Automate (Cloud)**
-- ✅ Cloud-based email delivery without local dependencies
 
 
 ## 🌟 About me
