@@ -42,7 +42,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🌟 About me
 
-Hi there! I am **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data Engineering & Analytics**. Although I am still at the beginning of my college journey, I am very enthusiastic about learning about how data is processed and transformed into meaningful information.
+Hi there! I am **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data**. Although I am still at the beginning of my college journey, I am very enthusiastic about learning about how data is processed and transformed into meaningful information.
 
 📌 I am currently studying:
 - Data Visualization
